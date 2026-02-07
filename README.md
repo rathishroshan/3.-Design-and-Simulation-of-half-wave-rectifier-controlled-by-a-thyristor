@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7046919f-cb81-45c6-b5bf-7ff203ffa372" />
+
 ## Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cec265c7-a07c-48b8-a392-08931b845e01" />
+
 ## Result
+thus,Design and Simulation of half wave rectifier controlled by a thyristor is verified.
