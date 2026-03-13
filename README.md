@@ -65,7 +65,7 @@ After analysing the simulated output,
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7046919f-cb81-45c6-b5bf-7ff203ffa372" />
 
 ## Output
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cec265c7-a07c-48b8-a392-08931b845e01" />
+![EXP3](https://github.com/user-attachments/assets/d74e5fc8-acd2-445d-a76e-b76ca809aac0)
 
 ## Result
 thus,Design and Simulation of half wave rectifier controlled by a thyristor is verified.
